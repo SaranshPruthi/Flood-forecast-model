@@ -1,0 +1,13 @@
+River water level Forecast model.ipynb - It is the ARIMA model to predict future water levels of Muri river point of Puruliya district of West Bengal. It trains on a total of three consecutive year's data
+
+Rainfall prediction model.ipynb - It is the ARIMA model to predict future rainfall amount of Puruliya district. It trains on a total of three consecutive year's data
+
+Flood forecast model (LR).ipynb - This file studies the relationship between change in water level by chaning the rainfall amount by modelling it using Linear Regression
+
+Flood forecast model (KNN).ipynb - This file is used to classify the flood forecasts into danger levels (0-3 with 0 being the lowest and 3 being the highest) using KNN classifiers and water level & rainfall as features
+
+flood_danger_level.csv - This csv file is used in the KNN model for flood danger level classification purposes
+
+Cumiliative Rainfall data.csv - Rainfall data is actuall rainfall data of Puruliya district of West Bengal from 1st July, 2018 to 1st July, 2021 (three years)
+
+Cumiliative Water level data.csv - Muri river point time-series water level data from 1st July, 2018 to 1st July, 2021 (three years)
